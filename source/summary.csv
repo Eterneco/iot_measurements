@@ -1,0 +1,5 @@
+Pin#, PORT IO, Function, Direction
+58,GP03,ADC_CH1,
+55,GP01,UART0_TX,
+57,GP02,UART0_RX,
+61,GP06,GPIO06,Output
